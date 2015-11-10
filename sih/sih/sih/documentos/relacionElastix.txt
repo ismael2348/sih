@@ -1,0 +1,113 @@
+Extenciones:
+6		Hospital sin medicos
+7		sin salida de llamadas
+8		sin salida de llamadas
+9		sin salida de llamadas
+5001	Permite todo(allow all)
+5002	Hospital sin medicos
+5003	Hospital sin medicos
+5004	Hospital sin medicos
+5005	Hospital sin medicos
+5006	Hospital sin medicos
+5007	Hospital sin medicos
+5008	Hospital sin medicos
+5009	Hospital sin medicos
+5010	Hospital sin medicos
+5011	 Hospital sin medicos
+5012	Hospital sin medicos
+5013	Hospital sin medicos
+5014	Hospital sin medicos
+5015	Hospital sin medicos
+5016	Hospital sin medicos
+5017	Hospital sin medicos
+5018	Hospital sin medicos
+5019	Hospital sin medicos
+5020	Permite todo(allow all)
+5021	Permite todo(allow all)
+5022	Hospital sin medicos
+5023	Hospital sin medicos
+5026	Hospital sin medicos
+5051	Hospital sin medicos
+5052	Hospital sin medicos
+5053	Hospital sin medicos
+5054	Hospital sin medicos
+5055	Hospital sin medicos
+5056	Hospital sin medicos
+5060	Hospital sin medicos
+5061	Hospital sin medicos
+5062	Hospital sin medicos
+5063	Hospital sin medicos
+5065	Hospital sin medicos
+5068	Hospital sin medicos
+5069	Hospital sin medicos
+5071	permite todo (allow all)
+5072	Hospital sin medicos
+5073	Hospital sin medicos
+5074	Hospital sin medicos
+5075	Hospital sin medicos
+5081	Hospital sin medicos
+5082	TS URG CE
+5083	Hospital sin medicos
+5084	TS URG CE
+5085	TS URG CE
+5086	Hospital sin medicos
+5091	Hospital sin medicos
+5092	Hospital sin medicos
+5093	Hospital sin medicos
+5094	Hospital sin medicos
+5095	Hospital sin medicos
+5096	Hospital sin medicos
+5097	Hospital sin medicos
+5098	Hospital sin medicos
+5099	Hospital sin medicos
+5101	Hospital sin medicos
+5102	Hospital sin medicos
+5106	permite todo (allow all)
+5108	permite todo (allow all)
+5112	permite todo (allow all)
+5113	Hospital sin medicos
+5114	Hospital sin medicos
+5118	Hospital sin medicos	
+5119	Hospital sin medicos
+5131	Hospital sin medicos
+5142	permite todo (allow all)		
+5143	Hospital sin medicos
+5147	Hospital sin medicos
+5151	Hospital sin medicos
+5152	Hospital sin medicos
+5156	Hospital sin medicos	
+5157	Hospital sin medicos
+5160	Hospital sin medicos
+5161	Hospital sin medicos
+5162	Hospital sin medicos
+5166	Hospital sin medicos
+5167	Hospital sin medicos
+5168	Hospital sin medicos
+5169	Hospital sin medicos
+5171	Hospital sin medicos
+5172	Hospital sin medicos
+5174	Hospital sin medicos
+5178	Hospital sin medicos
+5181	Hospital sin medicos
+5183	Hospital sin medicos
+5184	Hospital sin medicos
+5185	Hospital sin medicos
+5191	Hospital sin medicos
+5193	Hospital sin medicos
+5195	Hospital sin medicos
+
+5201	Hospital sin medicos
+5206	Hospital sin medicos
+5207	Hospital sin medicos
+5401	Hospital sin medicos
+5402	Hospital sin medicos
+5403	Hospital sin medicos
+5404	Hospital sin medicos
+5405	Hospital sin medicos
+5405	Hospital sin medicos
+5406	Hospital sin medicos
+5407	Hospital sin medicos
+5408	Hospital sin medicos
+5410	Hospital sin medicos
+5411	Hospital sin medicos
+5501 ->	5539 = llamadas a extenison

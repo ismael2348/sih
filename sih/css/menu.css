@@ -1,0 +1,114 @@
+.menu,
+.menu ul,
+.menu li,
+.menu a {
+	margin: 0;
+	padding: 0;
+	
+	outline: none;
+}
+.menu {	
+height: 30px;
+width: 700px;
+position:relative;
+top:30px;
+left:430px;
+text-transform: uppercase;
+
+
+	-webkit-border-radius:  5px 5px 0 0;
+	-moz-border-radius: 5px 5px 0 0;
+	border-radius:  5px 5px 0 0;
+}
+
+.menu li {
+	position: relative;
+	list-style: none;
+	float: right;
+	display: block;
+	height: 40px;
+}
+
+/* Links */
+
+.menu li a {
+	display: block;
+	padding: 0 10px;
+	margin: 6px 0;
+	line-height: 15px;
+	text-decoration: none;
+	
+	border-left: 1px solid #65A8A1;
+	border-right: 1px solid #65A8A1;
+
+	/*font-family: Helvetica, Arial, sans-serif;
+	*/font-weight: bold;
+	font-size: 14px;
+
+	color: #E1EDE9;
+	
+
+	-webkit-transition: color .2s ease-in-out;
+	-moz-transition: color .2s ease-in-out;
+	-o-transition: color .2s ease-in-out;
+	-ms-transition: color .2s ease-in-out;
+	transition: color .2s ease-in-out;
+}
+
+.menu li:first-child a { border-left: none; }
+.menu li:last-child a{ border-right: none; }
+
+.menu li:hover > a { color: #8fde62; }
+
+/* Sub Menu */
+
+.menu ul {
+	position: absolute;
+	top: 20px;
+	left: -20px;
+
+	opacity: 0;
+	
+	background: transparent;
+
+	-webkit-border-radius: 0 0 5px 5px;
+	-moz-border-radius: 0 0 5px 5px;
+	border-radius: 0 0 5px 5px;
+
+	-webkit-transition: opacity .25s ease .1s;
+	-moz-transition: opacity .25s ease .1s;
+	-o-transition: opacity .25s ease .1s;
+	-ms-transition: opacity .25s ease .1s;
+	transition: opacity .25s ease .1s;
+}
+
+.menu li:hover > ul { opacity: 1; }
+
+.menu ul li {
+	height: 0;
+	overflow: hidden;
+	padding: 0;
+	width:200px;
+	-webkit-transition: height .25s ease .1s;
+	-moz-transition: height .25s ease .1s;
+	-o-transition: height .25s ease .1s;
+	-ms-transition: height .25s ease .1s;
+	transition: height .25s ease .1s;
+}
+
+.menu li:hover > ul li {
+	height: 20px;
+	overflow: visible;
+	padding: 0;
+}
+
+.menu ul li a {
+	width: 100%;
+	padding: 10px;
+	margin: 0;
+	font-size:11px;
+	border: none;
+	
+}
+
+.menu ul li:last-child a { border: none; }

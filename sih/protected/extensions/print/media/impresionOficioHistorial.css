@@ -1,0 +1,63 @@
+
+@media print {
+
+	body {margin:0; padding:0; line-height: 1.4em; word-spacing:1px; letter-spacing:0.2px; font: 13px Arial, Helvetica,"Lucida Grande", serif; color: #000;}
+	
+	#logo, #catnavi, .topnavi, .more-link, .navigation, #sidebartop, #related, #social, #sponsors, .tabs, #allpost, .toolbar, .splitbox, #commentform, #commentabs .idTabs, .postmeta-content .comments, #respond h3, .tag, .footerlinks {display:none;}
+
+	.menu, .editarSeg, .adjuntos, .menuDerecha *{
+		display:none;
+	}
+
+
+	.ofix{
+		width:100%;
+		font-size:.8em;
+		margin-left:0;
+		min-height: 150px;
+	}
+	body
+	{
+	  margin: 0mm 0mm 0mm 0mm;
+	}
+	*{
+		background-color:white;
+		color:#000000 !important;
+		box-shadow:0;
+		box-sizing: border-box;	
+	}
+
+	#seguimientos{
+		margin:0;
+		width:100%;
+		border:0px solid red;
+
+	}
+	.tituloSeg{
+		border:1px solid #555;
+	}
+
+.seguim{
+	margin:5px 15px 0 0;
+	box-shadow: 0;
+	width:calc(33% - 18px);
+	}
+
+
+
+
+	.titulo span{
+		
+		width:30%;
+		margin:0;
+	}
+	.titulo span:first-child{
+		width:100%;
+		color:red;
+		font-size: 29px;
+	}
+
+
+
+
+}
